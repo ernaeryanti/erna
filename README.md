@@ -1,0 +1,2 @@
+# erna
+membuat file erna
